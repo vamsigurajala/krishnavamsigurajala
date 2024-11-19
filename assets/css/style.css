@@ -33,11 +33,11 @@ body::before {
 }
 
 a {
-  color: #faf622;
+  color: #12d640;
 }
 
 a:hover {
-  color: #faf622;
+  color: #35e888;
   text-decoration: none;
 }
 
@@ -113,7 +113,7 @@ svg {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: #faf622;
+  color: #12d640;
 }
 
 #header h2 span {
@@ -147,7 +147,7 @@ svg {
 }
 
 #header .social-links a:hover {
-  background: #faf622;
+  background: #12d640;
 }
 
 @media (max-width: 992px) {
@@ -222,7 +222,7 @@ svg {
 .nav-menu a:hover,
 .nav-menu .active>a,
 .nav-menu li:hover>a {
-  color: #faf622;
+  color: #12d640;
   text-decoration: none;
 }
 
@@ -281,7 +281,7 @@ svg {
 .mobile-nav a:hover,
 .mobile-nav .active>a,
 .mobile-nav li:hover>a {
-  color: #faf622;
+  color: #12d640;
   text-decoration: none;
 }
 
@@ -422,7 +422,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #faf622;
+  color: #1c7d32;
 }
 
 .about-me .content ul {
@@ -437,7 +437,7 @@ section .container {
 .about-me .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #faf622;
+  color: #1c7d32;
 }
 
 .about-me .content p:last-child {
@@ -758,7 +758,7 @@ section .container {
 
 .services .icon-box:hover {
   background: #042e5f;
-  border-color: #faf622;
+  border-color: #12d640;
 }
 
 .services .icon-box:hover .icon {
@@ -766,7 +766,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon i {
-  color: #faf622;
+  color: #12d640;
 }
 
 .services .icon-box:hover .icon::before {
@@ -775,7 +775,7 @@ section .container {
 
 .services .icon-box:hover h4 a,
 .services .icon-box:hover p {
-  color: #faf622;
+  color: #12d640;
 }
 
 /*--------------------------------------------------------------
@@ -811,7 +811,7 @@ section .container {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #faf622;
+  background: #12d640;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1026,7 +1026,7 @@ section .container {
 
 .contact .info-box h3 {
   font-size: 20px;
-  color: #faf622;
+  color: #28a745;
   font-weight: 700;
   margin: 10px 0 8px 68px;
 }
@@ -1053,7 +1053,7 @@ section .container {
 }
 
 .contact .info-box .social-links a:hover {
-  color: #faf622;
+  color: #12d640;
 }
 
 .contact .php-email-form {
@@ -1081,7 +1081,7 @@ section .container {
 .contact .php-email-form .sent-message {
   display: none;
   background: rgba(255, 255, 255, 0.08);
-  background: #faf622;
+  background: #12d640;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1101,7 +1101,7 @@ section .container {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #faf622;
+  border: 3px solid #12d640;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1162,7 +1162,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #faf622;
+  background: #12d640;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1171,7 +1171,7 @@ section .container {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #faf622;
+  background: #12d640;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1207,7 +1207,7 @@ section .container {
 }
 
 .credits a {
-  color: #fbfe25;
+  color: #1c7d32;
   transition: 0.3s;
 }
 
