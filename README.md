@@ -1,4 +1,4 @@
-# krishnavamsigurajala.github.io
+# vamsigurajala.github.com
 
 Welcome to the Portfolio! This repository contains my personal portfolio, showcasing my projects, skills, and achievements. Feel free to explore and get to know more about my professional journey and interests.
 
