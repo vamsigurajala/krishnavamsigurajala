@@ -2,7 +2,7 @@
 
 Welcome to the Portfolio! This repository contains my personal portfolio, showcasing my projects, skills, and achievements. Feel free to explore and get to know more about my professional journey and interests.
 
-My portfolio is built using HTML, CSS, and JavaScript. You can check it out [here](https://ruthvikareddytangirala.github.io/).
+My portfolio is built using HTML, CSS, and JavaScript. You can check it out [here]([https://vamsigurajala.github.io/krishnavamsigurajala/]).
 
 ## Introduction
 
